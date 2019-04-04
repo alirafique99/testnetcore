@@ -11,3 +11,4 @@ C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\test
 C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.RazorTargetAssemblyInfo.cache
 C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.dll
 C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.pdb
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.csprojAssemblyReference.cache
