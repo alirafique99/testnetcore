@@ -1,0 +1,13 @@
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.RazorAssemblyInfo.cache
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.RazorAssemblyInfo.cs
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.AssemblyInfoInputs.cache
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.AssemblyInfo.cs
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\testnetcore.deps.json
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\testnetcore.runtimeconfig.json
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\testnetcore.runtimeconfig.dev.json
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\testnetcore.dll
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\bin\Debug\netcoreapp2.2\testnetcore.pdb
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.RazorTargetAssemblyInfo.cache
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.dll
+C:\xampp\htdocs\testnetcore\testnetcore\testnetcore\obj\Debug\netcoreapp2.2\testnetcore.pdb
